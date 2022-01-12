@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PilgrimsProgress</string>
+    <string name="button_send">Send</string>
+    <string name="intro">This is an adventure type game based on the allegorical novel, <u>Pilgrim\'s Progress</u>
+    written by John Bunyan in 1678.  You must guess North, South, East or West to move to the next level.
+    You will also have to answer Bible questions.  If you wander off into the woods or if
+    you lose all your points you will have to start over.
+
+        \n\nPlease send any comments or questions on this game to gicthus.inc@gmail.com.
+
+        \n\nWould you like to play a game? </string>
+</resources>
